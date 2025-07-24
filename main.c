@@ -17,7 +17,7 @@ void main()
  break;
  
  case 2:
- printf("The Substraction of %d and %d is: %d\n",num1,num2,num1-num2);
+ printf("The Subtraction of %d and %d is: %d\n",num1,num2,num1-num2);
  break;
  
  case 3:
@@ -26,7 +26,7 @@ void main()
  case 4:
  if(num2==0)
  {
- printf("The second integer is zero. Devide by zero.\n");
+ printf("The second integer is zero. Divide by zero.\n");
  }
  else
  {
